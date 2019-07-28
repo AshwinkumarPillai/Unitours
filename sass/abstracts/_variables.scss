@@ -1,0 +1,33 @@
+$color-primary-light: #4b7bec;
+$color-primary-medium: #3867d6;
+$color-primary-dark: #3920d9;
+$color-primary-bright: #00a8ff;
+
+$color-orange-light: #ffb900;
+$color-orange-medium: #ff7730;
+
+// $color-green-light: #55c57a;
+$color-green-light: #4cd137;
+// $color-green-medium: #73d56f;
+$color-green-medium:#44bd32;
+$color-green-dark: #28b485;
+
+$color-blue-light: #2998ff;
+$color-blue-medium: #5643fa;
+
+
+$opacity-light: rgba($color-primary-light,.5);
+$opacity-med: rgba($color-primary-medium,.5);
+$opacity-dark: rgba($color-primary-dark,.5);
+
+$color-grey-light: #f7f7f7;  
+$color-grey-dark: #ccc;
+
+// FONT
+$default-font-size: 1.6rem;
+
+// GRID
+$grid-width: 114rem;
+$grid-vertical-gap: 8rem;
+$grid-vertical-gap-small: 6rem; 
+$grid-horizontal-gap: 6rem;

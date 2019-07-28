@@ -1,0 +1,30 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+// @import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.6.3/css/fontawesome.min.css";
+
+@import "abstracts/functions";
+@import "abstracts/mixins";
+@import "abstracts/variables";
+
+@import "base/base";
+@import "base/animations";
+@import "base/typography";
+@import "base/utilities";
+
+@import "components/buttons";
+@import "components/composition";
+@import "components/feature-box";
+@import "components/cards";
+@import "components/story";
+@import "components/bg-video";
+@import "components/_form";
+@import "components/popup";
+
+@import "layout/header.scss";
+@import "layout/grid.scss";
+@import "layout/footer";
+@import "layout/navigation";
+
+@import "pages/home";
+
+
+
